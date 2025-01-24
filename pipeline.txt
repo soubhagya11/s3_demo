@@ -4,7 +4,7 @@ pipeline {
     environment {
         // Replace with your S3 bucket name and GitHub repository URL
         S3_BUCKET = 'hjvguvujv'
-        GIT_REPO = 'https://github.com/soubhagya11/s3_demo'
+        GIT_REPO = 'https://github.com/soubhagya11/s3_demo.git'
         AWS_REGION = 'ap-south-1'
     }
 
